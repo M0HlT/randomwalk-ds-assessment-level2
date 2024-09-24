@@ -1,6 +1,6 @@
 # RandomWalk Data Science Assessment
 
-##SUBMITTED FILES:
+## SUBMITTED FILES:
 1) assess.ipynb is the jupyternotebook, which is used to solve for the questions
 2) video for submission for the code:
 
